@@ -6,7 +6,7 @@ except:
     exit()
 
 counts = dict()
-largest = None
+
 for line in fhand:
     line = line.rstrip()
     if not line.startswith('From '): continue
@@ -15,10 +15,12 @@ for line in fhand:
     counts[email] = counts.get(email, 0) + 1 # Counting email -- Like Histogram
 
 # Retrieving largest sender
-for k in counts:
-    if largest is None or counts[k] > largest:  # counts[k] == value
-        l_sender = k
-        largest = counts[k]
+lrg_word = None
+lrg_count = None
 
-print(l_sender, largest)
+for word, count in counts.items():
+    if lrg_count is None or count > lrg_count:
+        lrg_word = word
+        lrg_count = count
 
+print(lrg_word, lrg_count)
