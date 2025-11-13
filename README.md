@@ -22,7 +22,3 @@ I earned certificates from Coursera for both courses:
 
 ## 🚀 Next Steps
 Next, I will move on to **"Using Python to Access Web Data"**, diving into APIs and web scraping.
-
-## 📜 Certificates Images
-![Programming for Everybody (Getting Started with Python)](course-certificates/getting-started-with-python.jpg)
-![Python Data Structures](course-certificates/python-data-structures.jpg)
