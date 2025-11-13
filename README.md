@@ -15,10 +15,14 @@ These courses strengthened my Python fundamentals and hands-on data manipulation
 - Practical programs for organizing and analyzing unstructured data
 - Python methods like `split()`, `sort()`, `get()`, `items()`, `startswith()`, and more
 
-## 🏆 Certificates
+## 🏆 Certificates Link
 I earned certificates from Coursera for both courses:  
 [![Programming for Everybody Certificate](https://www.coursera.org/account/accomplishments/certificate/6XOLI3OVQWV4)](https://coursera.org/share/4e1ed7457be093d486782fdcca694998)  
 [![Python Data Structures Certificate](https://www.coursera.org/account/accomplishments/certificate/IKBDJ5GH2260)](https://coursera.org/share/907f0fbe291c0d7e9cd0dd854c1d6c98)
 
 ## 🚀 Next Steps
 Next, I will move on to **"Using Python to Access Web Data"**, diving into APIs and web scraping.
+
+## 📜 Certificates Images
+![Programming for Everybody (Getting Started with Python)](course-certificates/getting-started-with-python.jpg)
+![Python Data Structures](course-certificates/python-data-structures.jpg)
